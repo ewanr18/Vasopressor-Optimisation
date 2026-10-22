@@ -13,6 +13,7 @@ When patients do not reach their target mean arterial pressure from the primary 
 
 Currently, vasopressin and epinephrine are the standard recommended agents for second-line vasopressors. Furthermore, individual patient data and meta analysis demonstrates that adding vasopressin to norepinephrine (first-line vasopressor) results in fewer episodes of atrial fibrillation and reduced requirements for renal replacement therapy compared to norepinephrine alone.
 
+However, there remains no evidence of impact on mortality, with no statically significant benefit found in reducing overall mortality in septic shock in large randomized control trials and meta analysis comparing vasopressin directly to norepinephrine. Additionally, the patient response to adding vasopressin remains difficult to predict in terms of potential benefits and toxicity. 
 
 Vassopressin has variable effects but some suggestion of effectiveness for certain patients. For some patients can cause adverse effects.
 
