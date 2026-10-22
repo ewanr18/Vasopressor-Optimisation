@@ -6,3 +6,13 @@ When patients enter septic shock, clincians frequently use vasosupressors to mai
 Mention positives and potential of vasosupressors
 
 Due to the potential to cause adverse effects and variation in effects between patients, a individual patient by patient basis could offer more effective treatment. By using uplift modelling,
+
+
+
+When patients do not reach their target mean arterial pressure from the primary vasopressor alone, less effective and more risky secondary vasopressors such as vassopressin are requried.
+
+Vassopressin has variable effects but some suggestion of effectiveness for certain patients. For some patients can cause adverse effects.
+
+By predicting the patients that this drug will be effective, we can reduce the number patients whom this will cause adverse effects.
+
+Unlike traditional, predictive ML models, uplift models find the causual impact of an intervention, such as providing a secondary vassopression, on an individuals outcome.
