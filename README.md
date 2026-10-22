@@ -11,8 +11,13 @@ Due to the potential to cause adverse effects and variation in effects between p
 
 When patients do not reach their target mean arterial pressure from the primary vasopressor alone, less effective and more risky secondary vasopressors such as vassopressin are requried.
 
+Currently, vasopressin and epinephrine are the standard recommended agents for second-line vasopressors. Furthermore, individual patient data and meta analysis demonstrates that adding vasopressin to norepinephrine (first-line vasopressor) results in fewer episodes of atrial fibrillation and reduced requirements for renal replacement therapy compared to norepinephrine alone.
+
+
 Vassopressin has variable effects but some suggestion of effectiveness for certain patients. For some patients can cause adverse effects.
 
 By predicting the patients that this drug will be effective, we can reduce the number patients whom this will cause adverse effects.
 
-Unlike traditional, predictive ML models, uplift models find the causual impact of an intervention, such as providing a secondary vassopression, on an individuals outcome.
+Unlike traditional, predictive ML models, uplift models find the causal impact of an intervention, such as providing a secondary vassopression, on an individuals outcome.
+
+Hence, use of uplift models allows us to predict individuals who will benefit from secondary vasosupressors such as vassopressin.
