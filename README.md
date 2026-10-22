@@ -8,7 +8,7 @@ Mention positives and potential of vasosupressors
 Due to the potential to cause adverse effects and variation in effects between patients, a individual patient by patient basis could offer more effective treatment. By using uplift modelling,
 
 
-
+--
 When patients do not reach their target mean arterial pressure from the primary vasopressor alone, less effective and more risky secondary vasopressors such as vassopressin are requried.
 
 Currently, vasopressin and epinephrine are the standard recommended agents for second-line vasopressors. Furthermore, individual patient data and meta analysis demonstrates that adding vasopressin to norepinephrine (first-line vasopressor) results in fewer episodes of atrial fibrillation and reduced requirements for renal replacement therapy compared to norepinephrine alone.
